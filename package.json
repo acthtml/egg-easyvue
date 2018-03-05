@@ -1,0 +1,25 @@
+{
+  "name": "egg-easyvue",
+  "version": "0.0.2",
+  "description": "vue ssr for eggjs.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acthtml/egg-easyvue.git"
+  },
+  "author": "acthtml",
+  "eggPlugin": {
+    "name": "easyvue",
+    "dependencies": [
+      "vue"
+    ],
+    "optionalDependencies": [
+      "webpack"
+    ]
+  },
+  "dependencies":{
+    "egg-view-vue": "^1.0.0"
+  },
+  "devDependencies": {
+    "egg-webpack": "^2.2.5"
+  }
+}
