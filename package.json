@@ -1,6 +1,6 @@
 {
   "name": "egg-easyvue",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "vue ssr for eggjs.",
   "repository": {
     "type": "git",
@@ -20,6 +20,6 @@
     "egg-view-vue": "^1.0.0"
   },
   "devDependencies": {
-    "egg-webpack": "^2.2.5"
+    "egg-webpack": "^3.0.2"
   }
 }

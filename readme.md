@@ -2,7 +2,7 @@
 
 eggjs的vue ssr方案。借助egg-view-vue和egg-webpack实现vue spa ssr方案。
 
-方案参考：[egg-vue-webpack-boilerplate](https://github.com/hubcarl/egg-vue-webpack-boilerplate)
+使用参考[egg-vue-spa-ssr-boilderplate](https://github.com/acthtml/egg-vue-spa-ssr-boilerplate)。
 
 ## 支持：
 
